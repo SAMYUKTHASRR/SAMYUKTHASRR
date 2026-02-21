@@ -9,7 +9,7 @@ Some days I struggle, some days things finally click — but I keep building.
 <h2>GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMYUKTHASRR&show_icons=true" />
 </p>
 
 ## What I'm Working On
