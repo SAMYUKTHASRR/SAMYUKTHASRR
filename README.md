@@ -1,50 +1,42 @@
-<!-- HEADER -->
 <h1 align="center">Hi, I'm Samyuktha 👋</h1>
 
 <p align="center">
-  IT Student • Exploring AI & Web Development • Learning step by step
+Information Technology Student | Exploring AI & Web Development
 </p>
 
-<br>
+<hr>
 
-<!-- ABOUT ME -->
-<h2 align="center">About Me</h2>
+<h2>About Me</h2>
 
-<p align="center" width="70%">
-I’m currently an Information Technology student focused on building strong fundamentals in programming and problem-solving.  
+<p>
+I am currently pursuing B.Tech in Information Technology. 
+I am learning Python, web development, and the basics of artificial intelligence.
 
-I’m exploring how AI systems and web applications can be combined to create meaningful learning experiences.  
-
-Still learning. Still improving. Consistency over perfection.
+I believe in improving step by step and building strong fundamentals.
 </p>
 
-<br>
+<h2>Skills</h2>
 
-<!-- TECH STACK -->
-<h2 align="center">Tech Stack</h2>
+<ul>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Flask (Beginner)</li>
+  <li>Git & GitHub</li>
+</ul>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git" />
+<h2>Current Focus</h2>
+
+<p>
+• Strengthening problem-solving skills <br>
+• Building small web projects <br>
+• Improving coding consistency
 </p>
 
-<br>
+<h2>Contact</h2>
 
-<!-- GITHUB STATS -->
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMYUKTHASRR&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMYUKTHASRR&layout=compact&theme=default" />
-</p>
-
-<br>
-
-<!-- CURRENT FOCUS -->
-<h2 align="center">Current Focus</h2>
-
-<p align="center">
-Strengthening DSA • Building AI-integrated web projects • Improving coding consistency
+<p>
+LinkedIn: (Add your LinkedIn link here) <br>
+Email: (Add your professional email here)
 </p>
