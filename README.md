@@ -1,54 +1,50 @@
-# Helloo, I'm Samyuktha Sanil
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Samyuktha 👋</h1>
 
-I'm an IT student trying to become better at coding — one project at a time.
-
-Right now, I’m exploring AI, web development, and UI/UX.  
-Some days I struggle, some days things finally click — but I keep building.
-
----
-<h2>GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMYUKTHASRR&show_icons=true" />
+<p align="center">
+  IT Student • Exploring AI & Web Development • Learning step by step
 </p>
 
-## What I'm Working On
+<br>
 
-- Building small but meaningful projects
-- Understanding how AI can be applied in learning systems
-- Improving my backend skills using Flask
-- Becoming more consistent with GitHub
+<!-- ABOUT ME -->
+<h2 align="center">About Me</h2>
 
----
+<p align="center" width="70%">
+I’m currently an Information Technology student focused on building strong fundamentals in programming and problem-solving.  
 
-## Tech I’m Learning & Using
+I’m exploring how AI systems and web applications can be combined to create meaningful learning experiences.  
 
-Python  
-HTML, CSS, JavaScript  
-Flask  
-Basic Machine Learning  
-Git & GitHub  
+Still learning. Still improving. Consistency over perfection.
+</p>
 
-Still learning. Still improving.
+<br>
 
----
+<!-- TECH STACK -->
+<h2 align="center">Tech Stack</h2>
 
-## Why This GitHub Exists
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git" />
+</p>
 
-This is where I:
-- Practice
-- Experiment
-- Make mistakes
-- Improve slowly
+<br>
 
-If you're here, feel free to explore my projects 🙂
+<!-- GITHUB STATS -->
+<h2 align="center">GitHub Stats</h2>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMYUKTHASRR&show_icons=true&hide_border=true" />
+</p>
 
-## Current Goal
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMYUKTHASRR&layout=compact&hide_border=true" />
+</p>
 
-To become confident in solving real-world problems using technology — not just writing code, but understanding it.
+<br>
 
----
+<!-- CURRENT FOCUS -->
+<h2 align="center">Current Focus</h2>
 
-Thanks for visiting ✨
+<p align="center">
+Strengthening DSA • Building AI-integrated web projects • Improving coding consistency
+</p>
