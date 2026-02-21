@@ -33,11 +33,11 @@ Still learning. Still improving. Consistency over perfection.
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMYUKTHASRR&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMYUKTHASRR&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMYUKTHASRR&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMYUKTHASRR&layout=compact&theme=default" />
 </p>
 
 <br>
