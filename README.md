@@ -14,6 +14,9 @@ I am learning Python, web development, and the basics of artificial intelligence
 
 I believe in improving step by step and building strong fundamentals.
 </p>
+![WhatsApp Image 2026-02-17 at 10 16 58 PM](https://github.com/user-attachments/assets/069d4dda-7ea4-49ee-81ec-4f3ab13d23db)
+<img src="https://github.com/user-attachments/assets/069d4dda-7ea4-49ee-81ec-4f3ab13d23db" width=200px height=600px>
+
 
 <h2>Skills</h2>
 
