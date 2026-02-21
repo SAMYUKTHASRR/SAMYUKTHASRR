@@ -1,16 +1,49 @@
-## Hi there 👋
+# Helloo, I'm Samyuktha Sanil
 
-<!--
-**SAMYUKTHASRR/SAMYUKTHASRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student trying to become better at coding — one project at a time.
 
-Here are some ideas to get you started:
+Right now, I’m exploring AI, web development, and UI/UX.  
+Some days I struggle, some days things finally click — but I keep building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On
+
+- Building small but meaningful projects
+- Understanding how AI can be applied in learning systems
+- Improving my backend skills using Flask
+- Becoming more consistent with GitHub
+
+---
+
+## Tech I’m Learning & Using
+
+Python  
+HTML, CSS, JavaScript  
+Flask  
+Basic Machine Learning  
+Git & GitHub  
+
+Still learning. Still improving.
+
+---
+
+## Why This GitHub Exists
+
+This is where I:
+- Practice
+- Experiment
+- Make mistakes
+- Improve slowly
+
+If you're here, feel free to explore my projects 🙂
+
+---
+
+## Current Goal
+
+To become confident in solving real-world problems using technology — not just writing code, but understanding it.
+
+---
+
+Thanks for visiting ✨
