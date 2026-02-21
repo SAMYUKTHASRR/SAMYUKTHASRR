@@ -6,7 +6,11 @@ Right now, I’m exploring AI, web development, and UI/UX.
 Some days I struggle, some days things finally click — but I keep building.
 
 ---
-C:\Users\Hey!\Downloads\WhatsApp Image 2026-02-17 at 10.16.58 PM.jpeg
+<h2>GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
 
 ## What I'm Working On
 
