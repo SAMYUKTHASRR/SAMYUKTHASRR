@@ -37,6 +37,6 @@ I believe in improving step by step and building strong fundamentals.
 <h2>Contact</h2>
 
 <p>
-LinkedIn: (Add your LinkedIn link here) <br>
-Email: (Add your professional email here)
+LinkedIn: www.linkedin.com/in/samyuktha-sanil-b5b285291e) <br>
+Email: samyukthasanil@gmail.com
 </p>
