@@ -17,7 +17,9 @@ I believe in improving step by step and building strong fundamentals.
 <h2 align="center">HackTheStack</h2>
 
 <p align="center">
-  <img src="hackthestack.jpeg" width="250">
+  ![hackthestack](https://github.com/user-attachments/assets/38506fe8-04da-4795-8a11-e940729a530f)
+  <img src="https://github.com/user-attachments/assets/38506fe8-04da-4795-8a11-e940729a530f" width=200px height=600px>
+
 </p>
 <h2>Skills</h2>
 
