@@ -6,6 +6,7 @@ Right now, I’m exploring AI, web development, and UI/UX.
 Some days I struggle, some days things finally click — but I keep building.
 
 ---
+C:\Users\Hey!\Downloads\WhatsApp Image 2026-02-17 at 10.16.58 PM.jpeg
 
 ## What I'm Working On
 
