@@ -19,6 +19,8 @@ I'm a 7th-semester **Information Technology** student at **LBS Institute of Tech
 
 - Built **VeinVision** — AI/ML vein detection prototype at **Sustain-A-Thon**
 - Currently working on a **Student Attendance Management System** (Flask + MySQL + role-based auth)
+- Designed and built **Serenity** — an editorial-style mental wellness dashboard with mood tracking, focus timer & wellness insights
+- Rebuilt **TrackTact** — a live budget tracking dashboard with anomaly detection, forecasting & Chart.js visualisations
 - Learning: Python for data, REST APIs, advanced DBMS design
 - Interested in: AI-powered apps, clean UI/UX, and real-world problem solving
 
@@ -67,18 +69,18 @@ Role-based system (Admin / Teacher / Student) with triggers, stored procedures &
 <tr>
 <td width="50%">
 
-### [TrackTact Dashboard](https://github.com/SAMYUKTHASRR/tracktact-dashboard)
-Smart budget tracking UI — data analytics mini project
+### [Serenity — Mental Wellness Dashboard](https://samyukthasrr.github.io/Serenity-Mental-Wellness-Dashboard/)
+Editorial-style wellness app — mood tracker, focus timer, wellness insights, productivity heatmap
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%">
 
-### [Todo List](https://github.com/SAMYUKTHASRR/TODO-LIST)
-Clean, minimal day-to-day task tracker
+### [TrackTact Dashboard](https://github.com/SAMYUKTHASRR/tracktact-dashboard)
+Live budget tracker with anomaly detection, saver scoring & week 4 forecasting
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Chart.js`
 
 </td>
 </tr>
@@ -89,7 +91,7 @@ Clean, minimal day-to-day task tracker
 ## HackTheStack
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38506fe8-04da-4795-8a11-e940729a530f" width="200px" height="600px">
+  <img src="https://github.com/user-attachments/assets/38506fe8-04da-4795-8a11-e940729a530f" width="200px">
 </p>
 
 ---
@@ -114,10 +116,10 @@ Clean, minimal day-to-day task tracker
 ## Currently focused on
 
 ```text
-Flask + MySQL full-stack project (DBMS-heavy: normalization, triggers, stored procs)
+Flask + MySQL full-stack project — normalization, triggers, stored procedures
+Serenity & TrackTact — live interactive dashboards with clean UI/UX
+LeetCode — data structures & problem-solving speed
 AI/ML fundamentals — building on VeinVision prototype
-LeetCode: data structures & problem-solving speed
-Clean UI/UX for every project I ship
 ```
 
 ---
