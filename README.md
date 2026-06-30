@@ -1,252 +1,144 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&section=header" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header&text=Samyuktha%20Sanil&fontSize=32&fontColor=ffffff&fontAlignY=60&desc=B.Tech%20IT%20·%20Kerala%2C%20India&descAlignY=80&descSize=14" />
+
+### Building AI systems · Full-stack web apps · Database tools
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyuktha-sanil-b5b285291)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samyukthasanil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAMYUKTHASRR)
+![Profile Views](https://komarev.com/ghpvc/?username=SAMYUKTHASRR&style=flat-square&color=7F77DD)
+
 </div>
-
-<br />
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    S A M Y U K T H A   S A N I L                                ║
-║    ─────────────────────────────────────────────────────────     ║
-║    Where structured logic meets deliberate motion.              ║
-║    I don't just write code — I architect intent.                ║
-║                                                                  ║
-║    [ IT Engineer ]  [ Builder ]  [ Systems Thinker ]            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<sub>B.Tech Information Technology · LBS Institute of Technology for Women, Trivandrum · Kerala, India</sub>
-
-<br />
 
 ---
 
-<br />
+## About Me
 
-## `> ECOSYSTEM.init()`
+I'm a 7th-semester **Information Technology** student at **LBS Institute of Technology for Women, Trivandrum**, building full-stack and AI-driven applications end to end.
 
-<br />
+- Shipped **BloomPath**, a production habit-tracking app (React, Vite, Tailwind, Framer Motion), live at Frontend Battle 2026
+- Built a **multimodal e-commerce search pipeline** using CLIP embeddings for semantic image-text matching, as part of a Gen AI bootcamp
+- Currently building a **Student Attendance Management System** — role-based auth, Flask + MySQL, normalized schema with triggers and stored procedures
+- Strongest project: **BloomPath** — covers frontend architecture, animation, and a full deploy pipeline from scratch
 
-> *This isn't a badge wall. It's a system map.*
+**Stack:** Python, JavaScript, React, Vite, Tailwind CSS, Flask, MySQL, CLIP / multimodal embeddings
 
-<br />
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td width="50%">
 
-**[ FRONT-END & AESTHETICS ]**
+### BloomPath
+`LIVE · FRONTEND BATTLE 2026`
 
-```
-■ HTML5
-■ CSS3 + Media Queries
-■ JavaScript ES6+
-■ React
-■ Vite
-■ Tailwind CSS
-■ Framer Motion
-```
+Habit-building app. React + Vite + Tailwind + Framer Motion. Shipped to production.
+
+**bloompath-iota.vercel.app**
 
 </td>
-<td valign="top" width="25%">
+<td width="50%">
 
-**[ LOGIC & CORE ]**
+### AI Product Intelligence
+`GEN AI BOOTCAMP`
 
-```
-■ Python
-■ Flask
-■ Node.js
-■ Data Structures
-■ Operating Systems
-■ REST APIs
-■ Git & Version Control
-```
+Multimodal pipeline — CLIP embeddings for semantic image-text matching in e-commerce.
 
 </td>
-<td valign="top" width="25%">
+</tr>
+<tr>
+<td width="50%">
 
-**[ DATA & STORAGE ]**
+### Attendance Management System
+Role-based system (Admin / Teacher / Student) with triggers, stored procedures & views
 
-```
-■ MySQL
-■ MongoDB
-■ Database Design
-■ Normalization
-■ Stored Procedures
-■ Triggers & Views
-■ Query Optimization
-```
+`Flask` `MySQL` `Jinja2` `Python`
 
 </td>
-<td valign="top" width="25%">
+<td width="50%">
 
-**[ AI & EMERGING ]**
+### [TrackTact Dashboard](https://github.com/SAMYUKTHASRR/tracktact-dashboard)
+Smart budget tracking UI — data analytics mini project
 
-```
-■ CLIP Embeddings
-■ Multimodal AI
-■ Computer Vision
-■ scikit-learn
-■ OpenCV
-■ IoT Concepts
-■ Robotics Systems
-```
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 </table>
 
-<br />
+---
+
+## HackTheStack
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38506fe8-04da-4795-8a11-e940729a530f" width="200px">
+</p>
 
 ---
 
-<br />
-
-## `> CONTROL_TOWER.status()`
-
-<br />
-
-<table>
-<tr><td>
-
-```
-ACTIVE MISSIONS ──────────────────────────────────────────────────
-```
-
-</td></tr>
-<tr><td>
-
-&nbsp;&nbsp;&nbsp;`[LIVE]`&nbsp;&nbsp;&nbsp; **BloomPath** — habit-building app, React + Framer Motion, shipped to Vercel
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [bloompath-iota.vercel.app](https://bloompath-iota.vercel.app) · _Frontend Battle 2026 submission_
-
-&nbsp;&nbsp;&nbsp;`[BUILD]`&nbsp;&nbsp; **AI Product Intelligence System** — CLIP embeddings · semantic image-text matching
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Multimodal pipeline for e-commerce · Gen AI Bootcamp
-
-&nbsp;&nbsp;&nbsp;`[BUILD]`&nbsp;&nbsp; **Student Attendance System** — role-based auth (Admin / Teacher / Student)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Flask + MySQL · triggers · stored procedures · views
-
-&nbsp;&nbsp;&nbsp;`[PREP]`&nbsp;&nbsp;&nbsp; **GATE** — systematic prep, CS fundamentals, algorithms, OS, DBMS
-
-</td></tr>
-<tr><td>
-
-```
-LEADERSHIP LOG ───────────────────────────────────────────────────
-```
-
-</td></tr>
-<tr><td>
-
-&nbsp;&nbsp;&nbsp;`[ROLE]`&nbsp;&nbsp;&nbsp; Sub-Executive Committee Member — collegiate robotics club
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Coordinated logistics, content, and execution for **RoboHive** and major tech events
-
-&nbsp;&nbsp;&nbsp;`[ROLE]`&nbsp;&nbsp;&nbsp; Event Curation & Tech Communication
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Bridging technical complexity with audience-first storytelling
-
-</td></tr>
-</table>
-
-<br />
-
----
-
-<br />
-
-## `> FAQ.reveal()`
-
-<br />
-
-<details>
-<summary><b>⬡ &nbsp;What's your actual superpower?</b></summary>
-<br />
-
-> I can hold the logic of a database schema and the feel of a UI animation in my head at the same time — and make them talk to each other. Most people pick one side. I refused to.
-
-<br />
-</details>
-
-<details>
-<summary><b>⬡ &nbsp;How do you approach a problem you've never seen before?</b></summary>
-<br />
-
-> First, I sit with it. I don't reach for a framework immediately — I ask *what is this actually trying to do?* Then I sketch the data flow, find the constraint, and build inward from the edges. Robotics taught me that: systems fail at the boundary, not the center.
-
-<br />
-</details>
-
-<details>
-<summary><b>⬡ &nbsp;Frontend or backend — pick one.</b></summary>
-<br />
-
-> Neither. I'll pick the layer where the interesting problem lives. Right now that's the gap between them — the place where a React component has to trust a Flask route has to trust a MySQL trigger. That middle-ground tension is where good systems get forged.
-
-<br />
-</details>
-
-<details>
-<summary><b>⬡ &nbsp;What does your ideal project look like?</b></summary>
-<br />
-
-> Something that didn't exist before I built it. A real user, a real constraint, and a stack I have to earn the right to use. Bonus if it involves an embedding model or something that learns. No CRUD-for-the-sake-of-CRUD. No cloned tutorials. Something with a decision at its core.
-
-<br />
-</details>
-
-<details>
-<summary><b>⬡ &nbsp;Why robotics? You're an IT student.</b></summary>
-<br />
-
-> Because software that controls physical objects has no mercy for bugs. You can't refresh a robot mid-fall. That stakes-are-real energy rewired how I think about reliability, timing, and edge cases — and it shows up in every web system I build now.
-
-<br />
-</details>
-
-<br />
-
----
-
-<br />
-
-## `> git log --oneline --notable`
-
-<br />
-
-| project | stack | status |
-|---|---|---|
-| [BloomPath](https://bloompath-iota.vercel.app) | React · Vite · Tailwind · Framer Motion | `live` |
-| [Serenity](https://samyukthasrr.github.io/Serenity-Mental-Wellness-Dashboard/) | HTML · CSS · JS | `live` |
-| [TrackTact](https://github.com/SAMYUKTHASRR/tracktact-dashboard) | HTML · CSS · Chart.js | `live` |
-| AI Product Intelligence System | Python · CLIP · Multimodal AI | `in progress` |
-| Student Attendance System | Flask · MySQL · Jinja2 | `in progress` |
-
-<br />
-
----
-
-<br />
-
-## `> CONNECT.open()`
-
-<br />
+## GitHub Stats
 
 <div align="center">
 
-[`linkedin`](https://linkedin.com/in/samyuktha-sanil-b5b285291)&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;[`email`](mailto:samyukthasanil@gmail.com)&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;[`github`](https://github.com/SAMYUKTHASRR)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SAMYUKTHASRR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMYUKTHASRR&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br />
-
-```
-─────────────────────────────────────────────────────
-  she's going places — remember this name.
-─────────────────────────────────────────────────────
-```
+![GitHub Streak](https://streak-stats.demolab.com/?user=SAMYUKTHASRR&theme=tokyonight&hide_border=true)
 
 </div>
 
-<br />
+---
+
+## Current Focus
+
+```text
+Flask + MySQL full-stack project (DBMS-heavy: normalization, triggers, stored procs)
+AI/ML fundamentals and applied AI basics
+LeetCode: data structures & problem-solving speed
+Clean UI/UX for every project I ship
+```
+
+---
+
+## Contact
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&section=footer" />
+
+LinkedIn: [www.linkedin.com/in/samyuktha-sanil-b5b285291](https://linkedin.com/in/samyuktha-sanil-b5b285291) <br>
+Email: samyukthasanil@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to internships, collaborations, and learning opportunities*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyuktha-sanil-b5b285291)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" />
+
 </div>
